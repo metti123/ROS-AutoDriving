@@ -25,16 +25,16 @@ Uses usb_cam and open cv. recognizes red circle using Hough Circle and stops whe
 2.if self.isStop is TRUE then LineDetector.Stop value will be changed to True as well which leads to the self-driving car to stop. (autodrive.py)<br><br>
 
 
-#### Stop after recognizing traffic lights video link
-![Video Label](https://youtu.be/mEHLbnFlSdU)
+#### Stop after recognizing traffic lights video link<br>
+https://youtu.be/mEHLbnFlSdU
 
 #### recognizes obstacle and stops(30cm away) video link
-![Video Label](https://youtu.be/zwvPO03l2jA)
+[![Video Label](https://youtu.be/zwvPO03l2jA)
 
 #### Avoid obstacles video link
-![Video Label](https://youtu.be/H6NFf2J4Vlw)
+[![Video Label](https://youtu.be/H6NFf2J4Vlw)
 
 #### self driving(lane detection and stops after a full circle) video link
-![Video Label](https://youtu.be/pOI2LmDWan8)
+[![Video Label](https://youtu.be/pOI2LmDWan8)
 
 
