@@ -34,7 +34,7 @@ Uses usb_cam and open cv. recognizes red circle using Hough Circle and stops whe
 #### Avoid obstacles video link
 ![Video Label](https://youtu.be/H6NFf2J4Vlw)
 
-### self driving.(lane detection and stops after a full circle) video link
+#### self driving(lane detection and stops after a full circle) video link
 ![Video Label](https://youtu.be/pOI2LmDWan8)
 
 
